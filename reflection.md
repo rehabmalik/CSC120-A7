@@ -9,3 +9,4 @@ Use this file to record your reflection on this assignment.
 - Overloaded the constructor in the House class for houses that require an elevator and with a hard coded number of floors in an instance where standard houses are being created in a specific area. 
 
 - What worked, what didn't, what advice would you give someone taking this course in the future?
+This one felt a lot easier compared to the other assignments. It took me a while to figure out which methods to overload and what they might be used for but they all worked in the end. 
